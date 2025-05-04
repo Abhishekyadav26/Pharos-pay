@@ -1,4 +1,5 @@
 # PHAROS-PAY - Scan & Pay
+![Screenshot from 2025-05-04 18-18-24](https://github.com/user-attachments/assets/1eaadce5-ea1b-4341-a3c7-e8c270e80fac)
 
 ## Overview
 Scan & Pay is a seamless, user-friendly, that enables fast and secure token transfers using QR code technology on the Pharos.
